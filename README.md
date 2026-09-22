@@ -1,7 +1,8 @@
 # Nationals Pitching Decision Support Tool
-https://nationals-pitching-tool.streamlit.app/
 
 A lightweight baseball analytics prototype designed to diagnose Washington's bullpen weaknesses and identify pitchers whose profiles could address those needs.
+
+**Live App:** https://nationals-pitching-tool.streamlit.app/
 
 ## Overview
 
@@ -28,6 +29,16 @@ to:
 - WSH overall whiff rate: **20.9% — 30th of 30**
 - WSH strikeout rate: **19.0%**
 - WSH walk rate: **9.8%**
+
+## Screenshots
+
+### Bullpen Diagnostic
+
+![Nationals Bullpen Diagnostic](screenshots/bullpen-diagnostic.png)
+
+### Player Detail
+
+![Player Detail](screenshots/player-detail.png)
 
 ## Product Workflow
 
