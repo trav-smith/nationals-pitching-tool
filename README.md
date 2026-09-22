@@ -36,9 +36,13 @@ to:
 
 ![Nationals Bullpen Diagnostic](screenshots/bullpen-diagnostic.png)
 
+*Washington bullpen performance benchmarked against MLB to identify the underlying need before screening players.*
+
 ### Player Detail
 
 ![Player Detail](screenshots/player-detail.png)
+
+*Shortlisted pitcher compared directly against the Washington bullpen baseline across key metrics.*
 
 ## Product Workflow
 
